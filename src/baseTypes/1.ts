@@ -12,7 +12,7 @@ toggle = true;
 let empty: null;
 empty = null;
 
-let notInitialize: undefined;
+let notInitialize: unknown;
 notInitialize = undefined;
 
 let callback = (a: number): number => {
